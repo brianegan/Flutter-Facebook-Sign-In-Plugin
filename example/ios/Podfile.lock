@@ -1,0 +1,22 @@
+PODS:
+  - facebook_sign_in (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - facebook_sign_in (from `/Users/bramvanbilsen/Documents/Flutter Projects/facebook_sign_in/ios`)
+  - Flutter (from `/Users/bramvanbilsen/flutter/bin/cache/artifacts/engine/ios`)
+
+EXTERNAL SOURCES:
+  facebook_sign_in:
+    :path: /Users/bramvanbilsen/Documents/Flutter Projects/facebook_sign_in/ios
+  Flutter:
+    :path: /Users/bramvanbilsen/flutter/bin/cache/artifacts/engine/ios
+
+SPEC CHECKSUMS:
+  facebook_sign_in: 3c768c115f1e40a5164ead29eec12556d831fb79
+  Flutter: d674e78c937094a75ac71dd77e921e840bea3dbf
+
+PODFILE CHECKSUM: 351e02e34b831289961ec3558a535cbd2c4965d2
+
+COCOAPODS: 1.2.0
